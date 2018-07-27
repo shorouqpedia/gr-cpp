@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1479992938 source:e:\shorouq\grshorouq\main.c
+	<windows.h>
+	<gl/gl.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<math.h>
+
+1532651413 source:c:\users\d\downloads\new folder\prgram'n\grshorouq\main.c
+	<windows.h>
+	<gl/gl.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<math.h>
+
